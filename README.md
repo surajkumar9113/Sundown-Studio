@@ -33,15 +33,13 @@ This project was created to practice:
 🔗 https://surajkumar9113.github.io/Sundown-Studio/
 
 ## 📂 Source Code
-🔗 GitHub Repository Link Here
+🔗  https://github.com/surajkumar9113
 
 ## 👨‍💻 Developer
 **Suraj Kumar**  
+
 Frontend / Web Developer  
-
-- GitHub:  https://github.com/surajkumar9113
 - LinkedIn: https://www.linkedin.com/in/suraj-kumar-331a58349?
-
 
 ⭐ If you like this project, don’t forget to star the repo!
 
